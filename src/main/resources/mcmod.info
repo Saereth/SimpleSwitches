@@ -1,14 +1,14 @@
 [
 {
-  "modid": "switchescontinued",
-  "name": "Switches Continued",
-  "description": "Convenient Switches - Originally by Myrathi",
+  "modid": "simpleswitches",
+  "name": "Simple Switches",
+  "description": "Small Cosmetic Switches",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Insaneau"],
-  "credits": "Myrathi",
+  "authorList": ["Saereth"],
+  "credits": "Insaneau",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

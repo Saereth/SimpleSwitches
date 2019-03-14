@@ -1,4 +1,4 @@
-package com.insane.switchescontinued;
+package com.saereth.simpleswitches;
 
 import net.minecraft.util.ResourceLocation;
 
