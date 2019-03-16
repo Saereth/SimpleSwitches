@@ -21,7 +21,7 @@ minecraft {
 	makeObfSourceJar = false
 
     replace("@VERSION@",project.version)
-    replaceIn("GregicAdditions.java")
+    replaceIn("Constants.java")
 }
 
 repositories {

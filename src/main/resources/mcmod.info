@@ -3,13 +3,12 @@
   "modid": "simpleswitches",
   "name": "Simple Switches",
   "description": "Small Cosmetic Switches",
-  "version": "${version}",
+  "version": "",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Saereth"],
-  "credits": "Insaneau",
-  "logoFile": "",
+    "logoFile": "",
   "screenshots": [],
   "dependencies": []
 }
